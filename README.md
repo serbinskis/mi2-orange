@@ -7,5 +7,3 @@
 Faili:
 - Orange darbplūsmas fails (.ows)
 - Datu kopa (.csv)
-
-Sīkākai informācijai skatiet projekta atskaiti repozitorijā.
